@@ -32,6 +32,7 @@ I love exploring how Python and coding can make weather visuals come to life.
 - Weather modeling, particularly with MPAS-A
 - Building weather data webpages
 - Data visualization for climate and atmospheric science
+- Playing in the ❄️*snow*❄️
 
 ---
 
