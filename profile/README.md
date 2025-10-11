@@ -18,7 +18,7 @@ I love exploring how Python and coding can make weather visuals come to life.
 ### [UGA-WRF](https://github.com/UGA-WRF-Club/ugawrf)
 > a script to process ugawrf data and a webpage to view said processed data
 
-![Python](https://img.shields.io/badge/Python-66.3%25-blue?logo=python)  ![HTML](https://img.shields.io/badge/HTML-16.3%25-orange?logo=html5)  ![JavaScript](https://img.shields.io/badge/JavaScript-13.9%25-yellow?logo=javascript)  ![CSS](https://img.shields.io/badge/CSS-2.1%25-blue?logo=css3)  ![Shell](https://img.shields.io/badge/Shell-1.4%25-lightgrey?logo=shell)
+![Python](https://img.shields.io/badge/Python-66.3%25-blue?logo=python)  ![HTML](https://img.shields.io/badge/HTML-16.3%25-orange?logo=html5)  ![JavaScript](https://img.shields.io/badge/JavaScript-13.9%25-yellow?logo=javascript)  ![CSS](https://img.shields.io/badge/CSS-2.1%25-blue?logo=css)  ![Shell](https://img.shields.io/badge/Shell-1.4%25-lightgrey)
 
 
 ---
