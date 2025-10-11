@@ -13,7 +13,7 @@ I love exploring how Python and coding can make weather visuals come to life.
 
 ---
 
-## 🚀 Featured Project
+## ✨ Featured Project
 
 ### [UGA-WRF](https://github.com/UGA-WRF-Club/ugawrf)
 > a script to process ugawrf data and a webpage to view said processed data
@@ -23,7 +23,7 @@ I love exploring how Python and coding can make weather visuals come to life.
 
 ---
 
-## 🌎 Interests
+## ☃ Interests
 
 - Weather modeling, particularly with MPAS-A
 - Building weather data webpages
