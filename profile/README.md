@@ -1,6 +1,6 @@
 # ❄️ luceboxed
 
-Hi, I'm Scout (they/them). I'm an atmospheric science student with a passion for winter, snow, cold climates, and weather modeling!  
+Hi, I'm Scout (they/them). I'm an atmospheric science undergrad student with a passion for winter, snow, cold climates, and weather modeling!  
 I love exploring how Python and coding can make weather visuals come to life.
 
 ---
@@ -18,7 +18,7 @@ I love exploring how Python and coding can make weather visuals come to life.
 ### [UGA-WRF](https://github.com/UGA-WRF-Club/ugawrf)
 > a script to process ugawrf data and a webpage to view said processed data
 
-![Python](https://img.shields.io/badge/Python-66.3%25-blue?logo=python)  ![HTML](https://img.shields.io/badge/HTML-16.3%25-orange?logo=html5)  ![JavaScript](https://img.shields.io/badge/JavaScript-13.9%25-yellow?logo=javascript)  ![CSS](https://img.shields.io/badge/CSS-2.1%25-blue?logo=css)  ![Shell](https://img.shields.io/badge/Shell-1.4%25-lightgrey)
+![Python](https://img.shields.io/badge/Python-65.5%25-blue?logo=python)  ![HTML](https://img.shields.io/badge/HTML-16.3%25-orange?logo=html5)  ![JavaScript](https://img.shields.io/badge/JavaScript-14.8%25-yellow?logo=javascript)  ![CSS](https://img.shields.io/badge/CSS-2.0%25-blue?logo=css)  ![Shell](https://img.shields.io/badge/Shell-1.4%25-lightgrey)
 
 
 ---
