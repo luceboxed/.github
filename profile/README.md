@@ -23,6 +23,8 @@ I love exploring how Python and coding can make weather visuals come to life.
 ### [UGA-MPAS](https://github.com/UGA-WRF-Club/ugampas)
 > Visualization scripts for our MPAS-A model
 
+![Python](https://img.shields.io/badge/Python-92.1%25-blue?logo=python) ![Shell](https://img.shields.io/badge/Shell-7.9%25-lightgrey)
+ 
 ---
 
 ## ☃ Interests
