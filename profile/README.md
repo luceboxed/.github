@@ -18,12 +18,12 @@ I love exploring how Python and coding can make weather visuals come to life.
 ### [UGA-WRF](https://github.com/UGA-WRF-Club/ugawrf)
 > a script to process ugawrf data and a webpage to view said processed data
 
-![Python](https://img.shields.io/badge/Python-65.5%25-blue?logo=python)  ![HTML](https://img.shields.io/badge/HTML-16.3%25-orange?logo=html5)  ![JavaScript](https://img.shields.io/badge/JavaScript-14.8%25-yellow?logo=javascript)  ![CSS](https://img.shields.io/badge/CSS-2.0%25-blue?logo=css)  ![Shell](https://img.shields.io/badge/Shell-1.4%25-lightgrey)
+![Python](https://img.shields.io/badge/Python-65.4%25-blue?logo=python)  ![HTML](https://img.shields.io/badge/HTML-16.3%25-orange?logo=html5)  ![JavaScript](https://img.shields.io/badge/JavaScript-14.9%25-yellow?logo=javascript)  ![CSS](https://img.shields.io/badge/CSS-2.0%25-blue?logo=css)  ![Shell](https://img.shields.io/badge/Shell-1.4%25-lightgrey)
 
 ### [UGA-MPAS](https://github.com/UGA-WRF-Club/ugampas)
 > Visualization scripts for our MPAS-A model
 
-![Python](https://img.shields.io/badge/Python-92.1%25-blue?logo=python) ![Shell](https://img.shields.io/badge/Shell-7.9%25-lightgrey)
+![Python](https://img.shields.io/badge/Python-77.8%25-blue?logo=python) ![Shell](https://img.shields.io/badge/Shell-22.2%25-lightgrey)
  
 ---
 
