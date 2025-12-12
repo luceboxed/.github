@@ -9,7 +9,7 @@ I love exploring how Python and coding can make weather visuals come to life.
 
 - **Atmospheric Science Undergrad Student**  
 - **Weather Enthusiast:** I deeply love winter, snow, and cold climates.
-- **Coding:** I'm primarily versed in Python, but I also know basic web dev (HTML/JS/CSS). I'm currently also learning R right now.
+- **Coding:** I'm primarily versed in Python, but I also know basic web dev (HTML/JS/CSS) and basic R. I'm currently also the sole maintainer of our university WRF and MPAS models.
 
 ---
 
